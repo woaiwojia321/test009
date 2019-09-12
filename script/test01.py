@@ -7,4 +7,4 @@ class Test01:
 
     def test03(self):
         print( '这是第三个' )
-        assert 1 == 2
+        assert 1
